@@ -1,0 +1,21 @@
+{
+	"under_game_score_y": 300, 
+	"press_ration": 1.392,
+	"piece_base_height_1_2": 20,
+	"piece_body_width": 70,
+	"height": 274,
+	"swipe":{
+		"x":[815,923],
+		"y":[1509,1658]
+	}
+
+}
+/*
+	"under_game_score_y": 300, 
+	"press_ration" 按压系数 
+	"piece_base_height_1_2" 棋子底部高度
+	"piece_body_width"  棋盘最大宽度
+	"height": 	棋盘最大高度
+	"swipe"按压随机位置
+
+*/
